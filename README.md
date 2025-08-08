@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhupe0106" alt="bhupe0106" /></a> </p>
 
-- 🌱 I’m currently learning **OpenShift**
-
-- 👯 I’m looking to collaborate on **cloud native Projects**
-
-- 🤝 I’m looking for help with **DevOps**
-
-- 💬 Ask me about **DevOps**
-
 - 📫 How to reach me **bhupesh.s2023aiml@sece.ac.in**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1RMM3i8nVpksf5M2zvy1Pdf7VsU83H6oj?usp=drive_link)
